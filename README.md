@@ -2,8 +2,7 @@
 What if you don't want to install yet another app on your phone? Or perhaps you're running low on storage space, prefer something more accessible, or simply want a smarter solution.
 
 That's exactly why I built this App called   
-### [FitPath: Your Personal Training Blueprint](https://partyrock.aws/u/michaelknq/3Dx0YIhkS/FitPath%253A-Your-Personal-Training-Blueprint
-)
+### [FitPath: Your Personal Training Blueprint](https://partyrock.aws/u/michaelknq/3Dx0YIhkS/FitPath%3A-Your-Personal-Training-Blueprint)
 
 
 
