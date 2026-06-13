@@ -2,7 +2,7 @@
 What if you don't want to install yet another app on your phone? Or perhaps you're running low on storage space, prefer something more accessible, or simply want a smarter solution.
 
 That's exactly why I built this App called   
-## [FitPath: Your Personal Training Blueprint](https://partyrock.aws/u/michaelknq/3Dx0YIhkS/FitPath%253A-Your-Personal-Training-Blueprint
+### [FitPath: Your Personal Training Blueprint](https://partyrock.aws/u/michaelknq/3Dx0YIhkS/FitPath%253A-Your-Personal-Training-Blueprint
 )
 
 This isn't just another fitness app that tells you what exercises to do. It's designed to guide you through the entire fitness journey—helping you understand the changes taking place in your body, providing solutions to common challenges, offering practical ways to manage discomfort or pain, and giving you the knowledge needed to stay consistent and motivated.
